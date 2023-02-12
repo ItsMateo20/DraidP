@@ -1,0 +1,20 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.7",
+  "service": "Draid",
+  "author": {
+    "id": "630812692659044352",
+    "name": "ItsMateo20#8774"
+  },
+  "description": {
+    "en": "A presence for the Draid website"
+  },
+  "url": "draid.vercel.app",
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/T2XP7w9.png",
+  "thumbnail": "https://i.imgur.com/iYDKZsG.png",
+  "color": "#63c8ff",
+  "tags": [
+    "discord"
+  ],
+  "category": "other"
+}
